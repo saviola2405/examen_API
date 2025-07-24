@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hello-word-api-python.iml" filepath="$PROJECT_DIR$/hello-word-api-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam_API_python.iml" filepath="$PROJECT_DIR$/Exam_API_python.iml" />
     </modules>
   </component>
 </project>
